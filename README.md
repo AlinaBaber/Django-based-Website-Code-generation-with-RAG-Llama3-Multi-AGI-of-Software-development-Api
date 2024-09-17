@@ -72,7 +72,6 @@ The **Django-based-Website-Code-generation-with-RAG-Llama3-Multi-AGI-of-Software
 
 
 
-https://github.com/user-attachments/assets/8d34344f-7c69-4d4f-a805-cdc69fbedb65
 
 
 https://github.com/user-attachments/assets/6cc96e97-3bb3-41d7-acd4-5b8396982fd4
