@@ -79,4 +79,4 @@ https://github.com/user-attachments/assets/6cc96e97-3bb3-41d7-acd4-5b8396982fd4
 
 ## Conclusion
 
-The **SDAgents Software Development System** is a robust solution for automating the entire software development process. By leveraging cutting-edge AI technologies and specialized agents, this system ensures that projects are completed efficiently and to a high standard of quality. It addresses real-world development challenges and provides a cost-effective solution for implementing AI-enhanced software architectures.
+The **Django-based-Website-Code-generation-with-RAG-Llama3-Multi-AGI-of-Software-development** is a robust solution for automating the entire software development process. By leveraging cutting-edge AI technologies and specialized agents, this system ensures that projects are completed efficiently and to a high standard of quality. It addresses real-world development challenges and provides a cost-effective solution for implementing AI-enhanced software architectures.
